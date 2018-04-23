@@ -1,1 +1,3 @@
 # R-Scripts
+
+- This contains a set of data about human mobility, subsistance, population, and environmental productivity derived from the [Standard Cross Cultural Sample](http://eclectic.ss.uci.edu/~drwhite/worldcul/sccs.html). Missing cases have been filled in via Multiple Imputation. It also contains a suite of R scripts for processing these data. Included routines are cluster analyses, Multidimentional Scaling, and Canonical Correspondence analysis. Plotting commands are also included. These data and analyses were used in my article ["Towards a theory of punctuated subsistence change," published in PNAS](http://www.pnas.org/content/112/31/9579).
